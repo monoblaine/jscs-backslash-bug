@@ -1,0 +1,14 @@
+{
+  "name": "jscs-backslash-bug",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^3.0.2"
+  }
+}
