@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/monoblaine/jscs-backslash-bug.git"
   },
   "version": "0.1.0",
   "devDependencies": {
